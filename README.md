@@ -38,17 +38,21 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aditya Rajawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **NextJS & TypeScript**
+<br>
 
-- 👯 I’m looking to collaborate on **Real World Projects**
+- 🔭 I’m currently working on <strong>Frontend development</strong>.
 
-- 👨‍💻 All of my projects are available at [https://aditya-rajawat.netlify.app/](https://aditya-rajawat.netlify.app/)
+- 🌱 I’m currently learning **NextJS & TypeScript**.
 
-- 💬 Ask me about **ReactJS, Tailwind CSS, NextJS**
+- 👯 I’m looking to collaborate on **Real World Projects**.
 
-- 📫 How to reach me **adityarajawat04@gmail.com**
+- 💬 Ask me about **ReactJS, Tailwind CSS, NextJS**.
+  
+- 👨‍💻 All of my projects are available at [https://aditya-rajawat.netlify.app/](https://aditya-rajawat.netlify.app/).
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zgS5MW0eCR7AbzvJKX4CremX_yRQG4Br/view?usp=sharing](https://drive.google.com/file/d/1zgS5MW0eCR7AbzvJKX4CremX_yRQG4Br/view?usp=sharing)
+- 📫 How to reach me **adityarajawat04@gmail.com**.
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zgS5MW0eCR7AbzvJKX4CremX_yRQG4Br/view?usp=sharing](https://drive.google.com/file/d/1zgS5MW0eCR7AbzvJKX4CremX_yRQG4Br/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
