@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **adityarajawat04@gmail.com**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zgS5MW0eCR7AbzvJKX4CremX_yRQG4Br/view?usp=sharing](https://drive.google.com/file/d/1zgS5MW0eCR7AbzvJKX4CremX_yRQG4Br/view?usp=sharing).
+- 📄 Know about my experiences https://drive.google.com/file/d/1vIb74NVZJRykPuUuyTW6sttN0qDGuYuX/view.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
